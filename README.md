@@ -57,6 +57,7 @@
 | Danielle Healey         | Section 201       | djh6284              | https://github.com/djh6284/djh6284                              |
 | Siddhartha Kollati      | Section 201       | szk6147              | https://github.com/szk6147/Siddhartha-Kollati-stat/             |
 | Mohammad Islam          | Section 201       | mislam4742           | https://github.com/mislam4742/mislam4742                        |
+| Mike Epelbaum           | Section 201       | Mikepelgar           | https://github.com/Mikepelgar/mikepelgar                        |
 
 
 
