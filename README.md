@@ -55,6 +55,8 @@
 | Kayla Moore             | Section 201       | kbm5999              | https://github.com/kbm5999/kbm5999                              |  
 | Peidong Liu             | Section 201       | Peidongliuuu         | https://github.com/PeidongLiuuu/peidongliuuu                    |
 | Danielle Healey         | Section 201       | djh6284              | https://github.com/djh6284/djh6284                              |
+| Siddhartha Kollati      | Section 201       | szk6147              | https://github.com/szk6147/Siddhartha-Kollati-stat/             |
+
 
 
 
