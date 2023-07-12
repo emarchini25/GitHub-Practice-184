@@ -59,7 +59,7 @@
 | Mohammad Islam          | Section 201       | mislam4742           | https://github.com/mislam4742/mislam4742                        |
 | Mike Epelbaum           | Section 201       | Mikepelgar           | https://github.com/Mikepelgar/mikepelgar                        |
 | Angkai Li               | Section 201       | angkai-li            | https://github.com/angkai-li/angkai-li                          | 
-| Elizabeth Marchini      | Section 201       | erm5580@psu.edu      | https://github.com/emarchini25/emarchini25                      |
+| Elizabeth Marchini      | Section 201       | emarchini25          | https://github.com/emarchini25/emarchini25                      |
 
 
 
