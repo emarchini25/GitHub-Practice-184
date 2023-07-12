@@ -54,6 +54,11 @@
 | Kaitlyn Houck           | Section 201       | krhouck              | https://github.com/krhouck/krhouck#hi-there-                    |
 | Kayla Moore             | Section 201       | kbm5999              | https://github.com/kbm5999/kbm5999                              |  
 | Peidong Liu             | Section 201       | Peidongliuuu         | https://github.com/PeidongLiuuu/peidongliuuu                    |
+| Danielle Healey         | Section 201       | djh6284              | https://github.com/djh6284/djh6284                              |
+| Siddhartha Kollati      | Section 201       | szk6147              | https://github.com/szk6147/Siddhartha-Kollati-stat/             |
+| Mohammad Islam          | Section 201       | mislam4742           | https://github.com/mislam4742/mislam4742                        |
+| Mike Epelbaum           | Section 201       | Mikepelgar           | https://github.com/Mikepelgar/mikepelgar                        |
+| Angkai Li               | Section 201       | angkai-li            | https://github.com/angkai-li/angkai-li                          | 
 | Elizabeth Marchini      | Section 201       | erm5580@psu.edu      | https://github.com/emarchini25/emarchini25                      |
 
 
